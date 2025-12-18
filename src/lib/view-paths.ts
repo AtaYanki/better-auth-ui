@@ -45,7 +45,7 @@ export const organizationViewPaths = {
     SETTINGS: "settings",
     /** @default "members" */
     MEMBERS: "members",
-    /** @default "members" */
+    /** @default "teams" */
     TEAMS: "teams",
     /** @default "api-keys" */
     API_KEYS: "api-keys"
