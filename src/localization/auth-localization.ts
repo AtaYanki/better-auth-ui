@@ -180,7 +180,8 @@ export const authLocalization = {
     EMAIL_VERIFICATION: "Email Verification",
 
     /** @default "Please check your email for the verification code to complete your registration." */
-    EMAIL_VERIFICATION_DESCRIPTION: "Please check your email for the verification code to complete your registration.",
+    EMAIL_VERIFICATION_DESCRIPTION:
+        "Please check your email for the verification code to complete your registration.",
 
     /** @default "Email verification successful." */
     EMAIL_VERIFICATION_SUCCESS: "Email verification successful.",

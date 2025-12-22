@@ -421,7 +421,6 @@ export function SignUpForm({
         }
     }
 
-
     return (
         <Form {...form}>
             <form
@@ -839,4 +838,3 @@ export function SignUpForm({
         </Form>
     )
 }
-
